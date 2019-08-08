@@ -1,14 +1,11 @@
 ---
 permalink: /services/
-title: "Markdown"
+title: "Services"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-
-Services
-==
 
 * Organizer
   * Tutorial on Hypergraph Learning: Methods, Tools and Applications in Medical Image Analysis (MICCAI 2019)
