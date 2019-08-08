@@ -6,7 +6,7 @@ excerpt: ''
 date: 2018-01-01
 venue: 'AAAI Conference on Artificial Intelligence'
 paperurl: ''
-citation: '<b>Zizhao Zhang</b>, Yubo Zhang, Xibin Zhao, Yue Gao. &quot;EMD Metric Learning.&quot; <i>AAAI Conference on Artificial Intelligence</i>, 2018.'
+citation: '<b>Zizhao Zhang</b>, Yubo Zhang, Xibin Zhao, Yue Gao. &quot;EMD Metric Learning&quot;. <i>AAAI Conference on Artificial Intelligence</i>, 2018.'
 ---
 Abstract
 ===
